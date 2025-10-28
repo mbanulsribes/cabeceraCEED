@@ -1,0 +1,5 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.office.com]
+outlook.office.com   ""                   "/"          1790334552    0 ClientId             5    CE07CD3CBEB8477699C54F84E37E77FF

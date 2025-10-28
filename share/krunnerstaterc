@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///usr/bin/google-chrome-stable,3 krunner_systemsettings_kcm_printer_manager,1 krunner_systemsettings_kcm_lookandfeel,1 exec:///opt/sublime_text/sublime_text,1 exec:///usr/bin/shutter,1 krunner_systemsettings_kcm_users,1 krunner_systemsettings_kcm_kscreen,1 browserhistory_863@@@https://ubunlog.com/sublime-text-4-instalacion-desde-repositorio-oficial-ubuntu/,1 krunner_systemsettings_kcm_bluetooth,1 exec:///usr/bin/kcalc,1 krunner_systemsettings_kcmspellchecking,5 exec:///usr/bin/libreoffice --writer,2 exec:///usr/bin/konsole,2 exec:///usr/bin/zero-center,1 exec:///usr/share/code/code
+
+[PlasmaRunnerManager][History]
+f0ad7dee-4335-4c34-a1f1-0e928cb40765=writ,impres,wr,zero,usuar,writer,word,aspec,calc,sub,subli,term,blue,sh,code,kon,pantalles,chro,chrome

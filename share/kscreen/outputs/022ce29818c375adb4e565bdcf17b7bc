@@ -1,0 +1,19 @@
+{
+    "id": "022ce29818c375adb4e565bdcf17b7bc",
+    "metadata": {
+        "fullname": "xrandr-HannStar Display Corp-HS221HPB-1234567890123",
+        "name": "HDMI-1"
+    },
+    "mode": {
+        "refresh": 59.93387985229492,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

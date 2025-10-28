@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="file:///home/maria/Documents/Programacio" added="2025-09-08T11:09:58.239000Z" modified="2025-10-27T10:19:25.456562Z" visited="2025-10-03T07:44:59.111000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdialog" exec="kdialog %u" modified="2025-10-03T07:44:59.111000Z" count="4"/>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-27T10:19:25.456559Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Imatges/mariafoto.png" added="2025-09-16T12:51:27.547066Z" modified="2025-10-08T13:11:18.876000Z" visited="2025-10-08T13:11:18.876000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-09-16T12:51:27.547070Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-08T13:11:18.876000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Manual%20FASE%20I%20PAF_CFC_cas.pdf" added="2025-09-30T12:41:15.461069Z" modified="2025-09-30T12:41:15.461076Z" visited="2025-09-30T12:41:15.461070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-09-30T12:41:15.461072Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_014.png" added="2025-09-30T13:38:15.767012Z" modified="2025-09-30T13:38:15.767018Z" visited="2025-09-30T13:38:15.767013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:38:15.767015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_015.png" added="2025-09-30T13:38:51.931861Z" modified="2025-09-30T13:38:51.931865Z" visited="2025-09-30T13:38:51.931862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:38:51.931863Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_016.png" added="2025-09-30T13:39:11.914349Z" modified="2025-09-30T13:39:11.914353Z" visited="2025-09-30T13:39:11.914350Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:39:11.914351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_017.png" added="2025-09-30T13:39:37.761345Z" modified="2025-09-30T13:39:37.761352Z" visited="2025-09-30T13:39:37.761345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:39:37.761348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Manual%20FASE%20I%20PAF_PFC_CAF_cas.pdf" added="2025-09-30T13:40:59.040934Z" modified="2025-09-30T14:09:15.515000Z" visited="2025-09-30T14:09:15.515000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-09-30T13:40:59.040942Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-09-30T14:09:15.515000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_018.png" added="2025-09-30T13:49:39.834968Z" modified="2025-09-30T13:49:39.834972Z" visited="2025-09-30T13:49:39.834969Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:49:39.834970Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_019.png" added="2025-09-30T13:50:03.605656Z" modified="2025-09-30T13:50:03.605662Z" visited="2025-09-30T13:50:03.605657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:50:03.605659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_020.png" added="2025-09-30T13:52:34.338659Z" modified="2025-09-30T13:52:34.338662Z" visited="2025-09-30T13:52:34.338659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:52:34.338660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_021.png" added="2025-09-30T13:53:06.097928Z" modified="2025-09-30T13:53:06.097933Z" visited="2025-09-30T13:53:06.097929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:53:06.097931Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_022.png" added="2025-09-30T13:53:30.378952Z" modified="2025-09-30T13:53:30.378968Z" visited="2025-09-30T13:53:30.378953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:53:30.378955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_023.png" added="2025-09-30T13:54:04.203950Z" modified="2025-09-30T13:54:04.203955Z" visited="2025-09-30T13:54:04.203951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:54:04.203952Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_024.png" added="2025-09-30T13:54:22.011294Z" modified="2025-09-30T13:54:22.011299Z" visited="2025-09-30T13:54:22.011295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:54:22.011297Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_025.png" added="2025-09-30T13:54:50.633914Z" modified="2025-09-30T13:54:50.633917Z" visited="2025-09-30T13:54:50.633915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:54:50.633916Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_026.png" added="2025-09-30T13:55:04.007671Z" modified="2025-09-30T13:55:04.007676Z" visited="2025-09-30T13:55:04.007672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:55:04.007673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_027.png" added="2025-09-30T13:55:21.489788Z" modified="2025-09-30T13:55:21.489793Z" visited="2025-09-30T13:55:21.489788Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:55:21.489790Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_028.png" added="2025-09-30T13:55:56.121218Z" modified="2025-09-30T13:55:56.121227Z" visited="2025-09-30T13:55:56.121219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:55:56.121221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_029.png" added="2025-09-30T13:56:25.133005Z" modified="2025-09-30T13:56:25.133013Z" visited="2025-09-30T13:56:25.133006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-09-30T13:56:25.133009Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/POWERPOINT_Plantilla%20presentacio%CC%81n.pptx" added="2025-10-01T10:44:35.811867Z" modified="2025-10-01T10:44:35.811876Z" visited="2025-10-01T10:44:35.811868Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T10:44:35.811872Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Claustre%20Aprovaci%C3%B3%20PAF.pptx" added="2025-10-01T12:02:18.742496Z" modified="2025-10-01T12:02:38.854000Z" visited="2025-10-01T12:02:38.854000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T12:02:18.742499Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-01T12:02:38.854000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/03.%20Certificaci%C3%B3%20Claustre%20PAF_CEED_signed_signed.pdf" added="2025-10-01T12:39:57.065887Z" modified="2025-10-01T13:14:52.783000Z" visited="2025-10-01T13:14:52.783000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T12:39:57.065891Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-01T13:14:52.783000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/03.%20Certificaci%C3%B3%20Claustre%20PAF_CEED_signed_signed-1.pdf" added="2025-10-01T12:42:12.332921Z" modified="2025-10-16T11:00:30.315000Z" visited="2025-10-16T11:00:30.315000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T12:42:12.332924Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-01T12:42:17.657000Z" count="1"/>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-10-16T11:00:30.315000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_030.png" added="2025-10-01T14:19:25.676592Z" modified="2025-10-01T14:19:25.676595Z" visited="2025-10-01T14:19:25.676592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-01T14:19:25.676593Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_031.png" added="2025-10-01T14:19:43.886862Z" modified="2025-10-01T14:19:43.886866Z" visited="2025-10-01T14:19:43.886863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-01T14:19:43.886864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_032.png" added="2025-10-01T14:20:05.844773Z" modified="2025-10-01T14:20:05.844778Z" visited="2025-10-01T14:20:05.844774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-01T14:20:05.844776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_033.png" added="2025-10-01T14:22:38.065681Z" modified="2025-10-01T14:22:38.065685Z" visited="2025-10-01T14:22:38.065682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-01T14:22:38.065683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_034.png" added="2025-10-01T14:26:23.272549Z" modified="2025-10-01T14:26:23.272553Z" visited="2025-10-01T14:26:23.272550Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-01T14:26:23.272551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Designer(1).png" added="2025-10-01T14:27:27.082204Z" modified="2025-10-01T14:27:27.082212Z" visited="2025-10-01T14:27:27.082205Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T14:27:27.082208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/output.png" added="2025-10-01T14:30:14.035000Z" modified="2025-10-01T14:30:20.444000Z" visited="2025-10-01T14:30:20.444000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-01T14:30:14.035000Z" count="1"/>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-10-01T14:30:20.444000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/TemariAnticProg/UF03.%20Introducci%C3%B3%20a%20Java.pdf" added="2025-10-01T17:36:46.426011Z" modified="2025-10-01T17:36:46.426020Z" visited="2025-10-01T17:36:46.426013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T17:36:46.426016Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/TemariAnticProg/UF03.%20Introduccio%20a%20Java%20-%20Presentaci%C3%B3.pdf" added="2025-10-01T17:36:53.268702Z" modified="2025-10-01T17:36:53.268710Z" visited="2025-10-01T17:36:53.268703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-01T17:36:53.268706Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_035.png" added="2025-10-02T10:15:26.080643Z" modified="2025-10-02T10:15:26.080650Z" visited="2025-10-02T10:15:26.080643Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-02T10:15:26.080645Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_036.png" added="2025-10-02T10:15:46.312395Z" modified="2025-10-02T10:15:46.312401Z" visited="2025-10-02T10:15:46.312396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-02T10:15:46.312398Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/UF2-lz8IBVNLCtDOBkpzY4qd/src/ca/UF1-a7iCElUQWZlR6T5FBtZZ.code-workspace" added="2025-10-03T07:45:13.990000Z" modified="2025-10-03T07:45:14.095000Z" visited="2025-10-03T07:45:14.095000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-code-workspace"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdialog" exec="kdialog %u" modified="2025-10-03T07:45:14.095000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.28+6/OpenJDK11U-jdk_x64_linux_hotspot_11.0.28_6.tar.gz" added="2025-10-03T08:07:13.121000Z" modified="2025-10-03T08:07:13.121000Z" visited="2025-10-03T08:07:13.121000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-03T08:07:13.121000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/OpenJDK11U-jdk_x64_linux_hotspot_11.0.28_6.tar.gz" added="2025-10-03T08:07:25.096989Z" modified="2025-10-03T08:08:02.787000Z" visited="2025-10-03T08:08:02.787000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-03T08:07:25.096998Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-03T08:07:46.159000Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2025-10-03T08:08:02.787000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?client_id=aebc6443-996d-45c2-90f0-388ff96faa56&amp;scope=email%20offline_access%20openid%20profile%20User.Read&amp;redirect_uri=http://localhost:38305&amp;client-request-id=344add8f-677b-4c70-92a3-06ff368d41a4&amp;response_mode=query&amp;response_type=code&amp;x-client-SKU=msal.js.node&amp;x-client-VER=2.16.2&amp;x-client-OS=linux&amp;x-client-CPU=x64&amp;client_info=1&amp;code_challenge=C_Fe0LOS7tY4jbZ3aowbnFp1iDXsaKI-Dht67uk9zh0&amp;code_challenge_method=S256&amp;prompt=select_account" added="2025-10-03T08:14:48.938000Z" modified="2025-10-03T08:14:48.938000Z" visited="2025-10-03T08:14:48.938000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-03T08:14:48.938000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/EXERCICIS" added="2025-10-03T08:17:12.828000Z" modified="2025-10-03T08:17:12.828000Z" visited="2025-10-03T08:17:12.828000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kdialog" exec="kdialog %u" modified="2025-10-03T08:17:12.828000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/UF3_1-2XRwZyryVRG9xfouojT6" added="2025-10-03T09:29:39.669000Z" modified="2025-10-16T10:08:19.980780Z" visited="2025-10-03T09:58:37.921000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-16T10:08:19.980743Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://code.visualstudio.com/" added="2025-10-03T09:29:59.258000Z" modified="2025-10-23T11:39:22.713000Z" visited="2025-10-23T11:39:22.713000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-23T11:39:22.713000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/code_1.104.3-1759409451_amd64.deb" added="2025-10-03T09:30:10.243051Z" modified="2025-10-03T09:30:10.243071Z" visited="2025-10-03T09:30:10.243053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-03T09:30:10.243057Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/EXERCICIS/Guia" added="2025-10-03T09:58:57.535000Z" modified="2025-10-03T09:58:57.535000Z" visited="2025-10-03T09:58:57.535000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/share/code/code %F %u" modified="2025-10-03T09:58:57.535000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/resum_accions_formatives.xlsx" added="2025-10-06T09:53:26.138142Z" modified="2025-10-06T11:02:04.259750Z" visited="2025-10-06T09:53:26.138149Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T09:53:26.138155Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T11:02:04.259748Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/resum_accions_formatives(1).xlsx" added="2025-10-06T09:53:59.347513Z" modified="2025-10-06T09:54:31.893865Z" visited="2025-10-06T09:53:59.347514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T09:53:59.347516Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T09:54:31.893864Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Personal.xlsx" added="2025-10-06T10:43:22.779842Z" modified="2025-10-07T12:24:57.817501Z" visited="2025-10-07T12:24:54.359000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T10:43:22.779847Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-06T10:43:25.499000Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-07T12:24:57.817499Z" count="5"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-06T10:52:11.500000Z" count="1"/>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-10-07T12:24:54.359000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/resum_accions_formatives(2).xlsx" added="2025-10-06T10:44:18.969232Z" modified="2025-10-06T10:44:18.969238Z" visited="2025-10-06T10:44:18.969233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T10:44:18.969235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/actividades_con_datos_personales.xlsx" added="2025-10-06T10:45:41.745000Z" modified="2025-10-06T10:45:45.174225Z" visited="2025-10-06T10:45:41.745000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-calc" exec="libreoffice --calc %U %u" modified="2025-10-06T10:45:41.745000Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T10:45:45.174224Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/DNINOMAF" added="2025-10-06T11:02:03.751450Z" modified="2025-10-06T11:02:03.751454Z" visited="2025-10-06T11:02:03.751451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T11:02:03.751452Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/DNINOMAF.xlsx" added="2025-10-06T11:02:05.050400Z" modified="2025-10-06T11:03:58.163906Z" visited="2025-10-06T11:02:14.793000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T11:03:58.163904Z" count="3"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-06T11:02:14.793000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Sheet1_with_DNI_and_Correo.xlsx" added="2025-10-06T11:02:51.605619Z" modified="2025-10-06T11:07:47.790000Z" visited="2025-10-06T11:07:47.790000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T11:02:51.605622Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-06T11:02:54.601880Z" count="2"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-06T11:07:47.790000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_037.png" added="2025-10-06T11:29:02.987467Z" modified="2025-10-06T11:29:02.987474Z" visited="2025-10-06T11:29:02.987468Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-06T11:29:02.987470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/temporalitzaci%C3%B361025.png" added="2025-10-06T11:30:52.993927Z" modified="2025-10-06T11:30:55.725000Z" visited="2025-10-06T11:30:55.725000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-06T11:30:52.993931Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-06T11:30:55.725000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/UF2-lz8IBVNLCtDOBkpzY4qd" added="2025-10-06T11:33:59.578000Z" modified="2025-10-06T11:33:59.578000Z" visited="2025-10-06T11:33:59.578000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/share/code/code %F %u" modified="2025-10-06T11:33:59.578000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/UF02.%20Representaci%C3%B3%20d'algoritmes%20-%20Exercicis%20extra%20Solucions.md" added="2025-10-06T11:54:30.766685Z" modified="2025-10-06T11:54:30.766691Z" visited="2025-10-06T11:54:30.766686Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T11:54:30.766688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/UF02.%20Representaci%C3%B3%20d'algoritmes%20-%20Solucions.md" added="2025-10-06T11:54:32.381111Z" modified="2025-10-06T11:56:43.479666Z" visited="2025-10-06T11:56:30.068000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-06T11:54:32.381114Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-06T11:56:30.068000Z" count="1"/>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-06T11:56:43.479659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/imagen.png" added="2025-10-07T13:21:33.445688Z" modified="2025-10-07T13:21:42.332000Z" visited="2025-10-07T13:21:42.332000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-07T13:21:33.445692Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-07T13:21:42.332000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/RAS%20PI2.docx" added="2025-10-08T10:58:50.785509Z" modified="2025-10-08T10:58:50.785515Z" visited="2025-10-08T10:58:50.785510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T10:58:50.785512Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/Programacio" added="2025-10-08T12:20:50.200209Z" modified="2025-10-23T08:12:00.510554Z" visited="2025-10-08T12:20:50.200210Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-23T08:12:00.510546Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_038.png" added="2025-10-08T13:13:47.792044Z" modified="2025-10-08T13:13:47.792050Z" visited="2025-10-08T13:13:47.792045Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-08T13:13:47.792048Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Imatges/Selecci%C3%B3_038.png" added="2025-10-08T13:14:28.431000Z" modified="2025-10-08T13:14:28.431000Z" visited="2025-10-08T13:14:28.431000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-08T13:14:28.431000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Selecci%C3%B3_038.jpg" added="2025-10-08T13:15:10.941707Z" modified="2025-10-08T13:15:10.941713Z" visited="2025-10-08T13:15:10.941708Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T13:15:10.941710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/PRG.jpg" added="2025-10-08T13:15:54.939596Z" modified="2025-10-08T13:16:29.397000Z" visited="2025-10-08T13:16:29.397000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T13:15:54.939599Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-08T13:16:24.237000Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-08T13:16:29.397000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://github.classroom/assignment?id=1072260761" added="2025-10-08T13:30:09.426000Z" modified="2025-10-08T13:30:09.426000Z" visited="2025-10-08T13:30:09.426000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="/usr/share/code/code --open-url %U %u" modified="2025-10-08T13:30:09.426000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:39481/signin?nonce=8VzLPgprhhNhtsZrKZuS3Q==" added="2025-10-08T13:30:25.750000Z" modified="2025-10-08T13:30:25.750000Z" visited="2025-10-08T13:30:25.750000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-08T13:30:25.750000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg" added="2025-10-08T13:31:12.914000Z" modified="2025-10-08T13:31:12.914000Z" visited="2025-10-08T13:31:12.914000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-08T13:31:12.914000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/Programacio/ErroresComp" added="2025-10-08T13:46:54.521265Z" modified="2025-10-08T13:46:54.521270Z" visited="2025-10-08T13:46:54.521266Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-08T13:46:54.521267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown" added="2025-10-08T14:47:48.937133Z" modified="2025-10-28T12:34:22.035962Z" visited="2025-10-08T14:47:48.937134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-28T12:34:22.035947Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/RAS%20PI2(1).docx" added="2025-10-08T16:32:35.380240Z" modified="2025-10-08T16:32:40.513549Z" visited="2025-10-08T16:32:35.380241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T16:32:35.380243Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-08T16:32:40.513547Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/25_26_DAW_0485_PRO_MBR.docx" added="2025-10-08T17:07:52.116318Z" modified="2025-10-08T17:07:52.116325Z" visited="2025-10-08T17:07:52.116319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T17:07:52.116321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/25_26_DAW_0485_PRO_MBR.pdf" added="2025-10-08T17:15:20.608771Z" modified="2025-10-08T17:15:20.608778Z" visited="2025-10-08T17:15:20.608772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-08T17:15:20.608775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/courseid_1967_participants.xlsx" added="2025-10-14T12:35:42.765726Z" modified="2025-10-14T12:37:03.733000Z" visited="2025-10-14T12:37:03.733000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-14T12:35:42.765729Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-14T12:35:48.054956Z" count="2"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-14T12:37:03.733000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/courseid_1967_participants.csv" added="2025-10-14T12:37:38.991436Z" modified="2025-10-14T12:37:47.941000Z" visited="2025-10-14T12:37:47.941000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-14T12:37:38.991438Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-14T12:37:47.941000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/courseid_1967_participants(1).xlsx" added="2025-10-15T10:52:21.449146Z" modified="2025-10-15T11:02:25.588802Z" visited="2025-10-15T10:52:21.449148Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T10:52:21.449153Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-15T11:02:25.588795Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/15112025xlsx" added="2025-10-15T11:02:23.320535Z" modified="2025-10-15T11:02:23.320552Z" visited="2025-10-15T11:02:23.320537Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-15T11:02:23.320544Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/15112025xlsx.xlsx" added="2025-10-15T11:02:26.141012Z" modified="2025-10-15T11:02:26.141025Z" visited="2025-10-15T11:02:26.141013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-15T11:02:26.141024Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/UF04Exercici01.java" added="2025-10-15T14:05:50.894563Z" modified="2025-10-15T14:05:50.894567Z" visited="2025-10-15T14:05:50.894564Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:05:50.894565Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ExercicisJava.java" added="2025-10-15T14:12:07.673983Z" modified="2025-10-15T14:12:07.673990Z" visited="2025-10-15T14:12:07.673984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:12:07.673987Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/EsmorzarTiquet.java" added="2025-10-15T14:15:29.586337Z" modified="2025-10-15T14:15:29.586344Z" visited="2025-10-15T14:15:29.586338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:15:29.586340Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ExercicisJava(1).java" added="2025-10-15T14:15:48.933447Z" modified="2025-10-15T14:15:48.933455Z" visited="2025-10-15T14:15:48.933448Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:15:48.933451Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ExercicisJava2.java" added="2025-10-15T14:15:50.056909Z" modified="2025-10-15T14:15:50.056915Z" visited="2025-10-15T14:15:50.056910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:15:50.056912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ExercicisJava3.java" added="2025-10-15T14:15:53.000988Z" modified="2025-10-15T14:15:53.000994Z" visited="2025-10-15T14:15:53.000989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:15:53.000991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Dossier_Exercicis_Java.pdf" added="2025-10-15T14:17:11.082496Z" modified="2025-10-15T14:17:11.082503Z" visited="2025-10-15T14:17:11.082497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:17:11.082500Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Exercicis_Agrupats.pdf" added="2025-10-15T14:18:34.440607Z" modified="2025-10-15T14:18:34.440614Z" visited="2025-10-15T14:18:34.440608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:18:34.440611Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Exercicis_Java_Complet.pdf" added="2025-10-15T14:21:08.677546Z" modified="2025-10-15T14:21:08.677553Z" visited="2025-10-15T14:21:08.677547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:21:08.677549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Exercicis_8_9_10.pdf" added="2025-10-15T14:21:52.417482Z" modified="2025-10-15T14:21:52.417493Z" visited="2025-10-15T14:21:52.417484Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T14:21:52.417488Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/Programacio/ChuletaUT3/src/App.java" added="2025-10-15T16:50:41.275000Z" modified="2025-10-15T17:00:52.981000Z" visited="2025-10-15T17:00:52.981000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="sublime_text" exec="/opt/sublime_text/sublime_text %F %u" modified="2025-10-15T16:50:41.275000Z" count="1"/>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2025-10-15T17:00:52.981000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/Programacio/ChuletaUT3/ExercicisJava(1).java" added="2025-10-15T17:27:58.357251Z" modified="2025-10-15T17:27:58.357269Z" visited="2025-10-15T17:27:58.357257Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-15T17:27:58.357262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/Programacio/ChuletaUT3" added="2025-10-15T17:28:05.170179Z" modified="2025-10-16T09:09:45.790639Z" visited="2025-10-15T17:28:05.170179Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-16T09:09:45.790634Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/UF2-lz8IBVNLCtDOBkpzY4qd/src/ca/Solucions.md" added="2025-10-15T17:34:09.911518Z" modified="2025-10-15T17:34:09.911538Z" visited="2025-10-15T17:34:09.911521Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-15T17:34:09.911529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown/Unitat1/Java-logo.png" added="2025-10-15T17:45:14.460217Z" modified="2025-10-15T17:45:14.460225Z" visited="2025-10-15T17:45:14.460218Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-15T17:45:14.460220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown/Unitat2" added="2025-10-16T09:07:45.695694Z" modified="2025-10-16T09:07:45.695700Z" visited="2025-10-16T09:07:45.695695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-16T09:07:45.695697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/github-recovery-codes.txt" added="2025-10-16T10:02:58.301149Z" modified="2025-10-16T10:02:58.301155Z" visited="2025-10-16T10:02:58.301150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T10:02:58.301152Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/Programacio/UF3_2-fpLSkgBwba2Q2ZXEYBfl" added="2025-10-16T10:35:38.554946Z" modified="2025-10-16T10:35:38.554963Z" visited="2025-10-16T10:35:38.554948Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-16T10:35:38.554955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/JustificantMaria.pdf" added="2025-10-16T10:46:04.322494Z" modified="2025-10-16T10:47:03.750000Z" visited="2025-10-16T10:47:03.750000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T10:46:04.322499Z" count="1"/>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-16T10:47:03.750000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%201%20Linies%20estrat%C3%A8giques%20-%20Autoemplenable_VAL.pdf" added="2025-10-16T10:50:31.571409Z" modified="2025-10-16T10:50:31.571414Z" visited="2025-10-16T10:50:31.571410Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T10:50:31.571412Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%202%20Linies%20estrat%C3%A8giques%20-%20Autoemplenable_CAS.pdf" added="2025-10-16T10:50:56.687152Z" modified="2025-10-16T10:50:56.687160Z" visited="2025-10-16T10:50:56.687153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T10:50:56.687155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%201%20Linies%20estrat%C3%A8giques%20-%20Autoemplenable_ceed.pdf" added="2025-10-16T11:00:22.583745Z" modified="2025-10-16T11:03:11.633251Z" visited="2025-10-16T11:01:24.054000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:03:11.633249Z" count="2"/>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-10-16T11:01:24.054000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%202%20Linies%20estrat%C3%A8giques%20-%20Autoemplenable_VAL.pdf" added="2025-10-16T11:03:35.611207Z" modified="2025-10-16T11:03:35.611216Z" visited="2025-10-16T11:03:35.611208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:03:35.611212Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%201%20Linies%20estrat%C3%A8giques%20-CEED.pdf" added="2025-10-16T11:09:14.424218Z" modified="2025-10-16T11:09:14.424231Z" visited="2025-10-16T11:09:14.424220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:09:14.424225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T0%20-%20Plantilla%20Model%202%20Linies%20estrat%C3%A8giques%20-%20CEED.pdf" added="2025-10-16T11:09:25.117993Z" modified="2025-10-16T11:09:25.118003Z" visited="2025-10-16T11:09:25.117994Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:09:25.117997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T1%20-%20Fase%20I%20Plantilla%20Acompanyament%20-%20Autoemplenable%20-%20VAL.pdf" added="2025-10-16T11:11:10.266429Z" modified="2025-10-16T11:11:10.266447Z" visited="2025-10-16T11:11:10.266434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:11:10.266441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T1%20-%20Fase%20I%20Plantilla%20Acompanyament%20-%20CEED.pdf" added="2025-10-16T11:13:08.041259Z" modified="2025-10-24T07:53:48.688866Z" visited="2025-10-16T11:13:08.041260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T07:53:48.688862Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Arxiu.zip" added="2025-10-16T11:14:48.871167Z" modified="2025-10-16T11:14:48.871174Z" visited="2025-10-16T11:14:48.871168Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:14:48.871170Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown/Unitat2/presentacio.pdf" added="2025-10-16T11:40:56.623977Z" modified="2025-10-17T07:24:31.667000Z" visited="2025-10-17T07:24:31.667000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-17T07:24:26.824948Z" count="2"/>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-10-17T07:24:31.667000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/exemple.mp4" added="2025-10-16T11:45:32.620236Z" modified="2025-10-16T11:45:32.620243Z" visited="2025-10-16T11:45:32.620237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:45:32.620239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades" added="2025-10-16T11:45:37.762000Z" modified="2025-10-16T11:45:37.762000Z" visited="2025-10-16T11:45:37.762000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="/usr/share/code/code %F %u" modified="2025-10-16T11:45:37.762000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/respiracao-banco-de-som-17595.mp3" added="2025-10-16T11:47:38.834656Z" modified="2025-10-16T11:47:38.834662Z" visited="2025-10-16T11:47:38.834656Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-16T11:47:38.834659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/courseid_1967_participants(2).xlsx" added="2025-10-17T09:04:53.055816Z" modified="2025-10-17T09:04:57.251848Z" visited="2025-10-17T09:04:53.055817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-17T09:04:53.055819Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-17T09:04:57.251844Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10258639-DAW-PRG.pdf" added="2025-10-21T12:46:33.202081Z" modified="2025-10-21T12:46:33.202088Z" visited="2025-10-21T12:46:33.202082Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-21T12:46:33.202085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/SolucionsUT4.md" added="2025-10-21T13:50:36.772648Z" modified="2025-10-21T13:50:36.772654Z" visited="2025-10-21T13:50:36.772648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-21T13:50:36.772651Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="/home/maria/Imatges/SelecciÃ³_039.png" added="2025-10-21T14:52:04.850301Z" modified="2025-10-21T14:52:04.850304Z" visited="2025-10-21T14:52:04.850302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-21T14:52:04.850303Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/imgutf5_1.png" added="2025-10-21T14:52:39.290155Z" modified="2025-10-21T14:52:39.290167Z" visited="2025-10-21T14:52:39.290156Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="shutter" exec="'shutter %u'" modified="2025-10-21T14:52:39.290161Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown/Unitat2/UTF5-Presentacio.pdf" added="2025-10-22T12:03:01.359794Z" modified="2025-10-22T12:15:53.457000Z" visited="2025-10-22T12:15:53.457000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-22T12:15:48.128468Z" count="3"/>
+          <bookmark:application name="okularApplication_pdf" exec="okular %U %u" modified="2025-10-22T12:15:53.457000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/1571379889677-SCORM_2004.zip" added="2025-10-22T12:06:47.181671Z" modified="2025-10-22T12:06:47.181677Z" visited="2025-10-22T12:06:47.181672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-22T12:06:47.181674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/1571379889677-HTML.zip" added="2025-10-22T12:06:59.702527Z" modified="2025-10-22T12:06:59.702537Z" visited="2025-10-22T12:06:59.702529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-22T12:06:59.702532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/5625355-hd_1620_1080_24fps.mp4" added="2025-10-22T12:08:38.961982Z" modified="2025-10-22T12:08:41.831000Z" visited="2025-10-22T12:08:41.831000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-22T12:08:38.961985Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2025-10-22T12:08:41.831000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Documents/DocumentsMarkdown/Unitat2/UTF5-Presentacio.html" added="2025-10-22T12:13:55.003688Z" modified="2025-10-22T12:15:15.808000Z" visited="2025-10-22T12:15:15.808000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-22T12:15:14.652144Z" count="2"/>
+          <bookmark:application name="com.google.Chrome" exec="/usr/bin/google-chrome-stable %U %u" modified="2025-10-22T12:15:15.808000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/.local" added="2025-10-22T13:01:39.963000Z" modified="2025-10-28T12:27:04.908000Z" visited="2025-10-28T12:27:04.908000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-28T12:27:04.908000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10258639-DAW-PRG.docx" added="2025-10-23T10:08:37.185850Z" modified="2025-10-23T10:08:37.185855Z" visited="2025-10-23T10:08:37.185851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:08:37.185853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/query.iqy" added="2025-10-23T10:13:47.968866Z" modified="2025-10-23T10:13:47.968873Z" visited="2025-10-23T10:13:47.968867Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:13:47.968870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/query(1).iqy" added="2025-10-23T10:13:57.520555Z" modified="2025-10-23T10:13:57.520560Z" visited="2025-10-23T10:13:57.520556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:13:57.520557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/query(2).iqy" added="2025-10-23T10:14:25.600708Z" modified="2025-10-23T10:14:25.600715Z" visited="2025-10-23T10:14:25.600709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:14:25.600712Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/AlumnosSeguimiento.csv" added="2025-10-23T10:14:33.791083Z" modified="2025-10-23T10:14:33.791090Z" visited="2025-10-23T10:14:33.791084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:14:33.791087Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10241900-DAW-PRG.docx" added="2025-10-23T10:17:49.060000Z" modified="2025-10-23T10:17:52.424693Z" visited="2025-10-23T10:17:49.060000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %U %u" modified="2025-10-23T10:17:49.060000Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-23T10:17:52.424692Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/OneDrive_1_23-10-2025.zip" added="2025-10-23T10:43:18.458843Z" modified="2025-10-23T10:43:20.269000Z" visited="2025-10-23T10:43:20.269000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:43:18.458848Z" count="1"/>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2025-10-23T10:43:20.269000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria" added="2025-10-23T10:43:27.973000Z" modified="2025-10-23T10:43:27.973000Z" visited="2025-10-23T10:43:27.973000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2025-10-23T10:43:27.973000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/OneDrive_1_23-10-2025/10258639-DAW-PRG.docx" added="2025-10-23T10:43:39.185000Z" modified="2025-10-23T10:43:44.107172Z" visited="2025-10-23T10:43:39.185000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="libreoffice-writer" exec="libreoffice --writer %U %u" modified="2025-10-23T10:43:39.185000Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="'soffice %u'" modified="2025-10-23T10:43:44.107170Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10258639-DAW-PRG-1.pdf" added="2025-10-23T10:44:38.866211Z" modified="2025-10-23T10:44:38.866218Z" visited="2025-10-23T10:44:38.866212Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:44:38.866214Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/13539860-DAW-PRG.pdf" added="2025-10-23T10:45:06.580905Z" modified="2025-10-23T10:45:06.580911Z" visited="2025-10-23T10:45:06.580906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:06.580908Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/13364675-DAW-PRG.pdf" added="2025-10-23T10:45:09.595933Z" modified="2025-10-23T10:45:09.595949Z" visited="2025-10-23T10:45:09.595934Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:09.595937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/13364597-DAW-PRG.pdf" added="2025-10-23T10:45:12.539727Z" modified="2025-10-23T10:45:12.539734Z" visited="2025-10-23T10:45:12.539727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:12.539730Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/11884998-DAW-PRG.pdf" added="2025-10-23T10:45:21.253139Z" modified="2025-10-23T10:45:21.253144Z" visited="2025-10-23T10:45:21.253139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:21.253141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10794336-DAW-PRG.pdf" added="2025-10-23T10:45:29.809330Z" modified="2025-10-23T10:45:29.809338Z" visited="2025-10-23T10:45:29.809331Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:29.809334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10427111-DAW-PRG.pdf" added="2025-10-23T10:45:38.478988Z" modified="2025-10-23T10:45:38.478997Z" visited="2025-10-23T10:45:38.478989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:38.478993Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10317180-DAW-PRG.pdf" added="2025-10-23T10:45:45.397754Z" modified="2025-10-23T10:45:45.397761Z" visited="2025-10-23T10:45:45.397755Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:45.397757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/10241900-DAW-PRG.pdf" added="2025-10-23T10:45:52.467216Z" modified="2025-10-23T10:45:52.467232Z" visited="2025-10-23T10:45:52.467219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T10:45:52.467226Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:8000/" added="2025-10-23T10:58:10.215000Z" modified="2025-10-28T14:23:50.963000Z" visited="2025-10-28T14:23:50.963000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-28T14:23:50.963000Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ico.png" added="2025-10-23T11:16:22.801085Z" modified="2025-10-23T11:16:22.801097Z" visited="2025-10-23T11:16:22.801090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-23T11:16:22.801094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/ico.ico" added="2025-10-23T11:17:41.276000Z" modified="2025-10-23T11:17:41.276000Z" visited="2025-10-23T11:17:41.276000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-10-23T11:17:41.276000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/.local/projecteT3" added="2025-10-23T11:28:06.180502Z" modified="2025-10-28T12:34:47.483266Z" visited="2025-10-23T11:28:06.180504Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-28T12:34:47.483263Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/M1T1%20-%20Fase%20I%20Plantilla%20Acompanyament%20-%20Autoemplenable%20-%20CAS.pdf" added="2025-10-24T07:31:58.636954Z" modified="2025-10-24T07:31:58.636961Z" visited="2025-10-24T07:31:58.636955Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T07:31:58.636958Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/maria.png" added="2025-10-24T08:36:51.289969Z" modified="2025-10-24T08:36:51.289979Z" visited="2025-10-24T08:36:51.289973Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T08:36:51.289976Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/Sergio.jpg" added="2025-10-24T08:37:02.767886Z" modified="2025-10-24T08:37:02.767891Z" visited="2025-10-24T08:37:02.767887Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T08:37:02.767889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/protocol_inactivitat.md" added="2025-10-24T09:25:18.538917Z" modified="2025-10-24T09:25:18.538927Z" visited="2025-10-24T09:25:18.538918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T09:25:18.538922Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Imatges/favicon.ico" added="2025-10-24T09:58:16.422000Z" modified="2025-10-24T10:20:41.995000Z" visited="2025-10-24T10:20:41.995000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.freedesktop.impl.portal.desktop.kde" exec="/usr/lib/x86_64-linux-gnu/libexec/xdg-desktop-portal-kde %u" modified="2025-10-24T09:58:16.422000Z" count="1"/>
+          <bookmark:application name="org.kde.gwenview" exec="gwenview %U %u" modified="2025-10-24T10:20:41.995000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/TC%20Programaci%C3%B3-Presentaci%C3%B3.mp4" added="2025-10-24T10:04:38.870183Z" modified="2025-10-24T10:04:38.870190Z" visited="2025-10-24T10:04:38.870184Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-24T10:04:38.870186Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/.local/backup/mkdocs.yml" added="2025-10-24T10:47:07.480000Z" modified="2025-10-24T10:47:07.480000Z" visited="2025-10-24T10:47:07.480000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2025-10-24T10:47:07.480000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/TC%20Programaci%C3%B3-UT3_3_App.java" added="2025-10-27T10:26:52.909343Z" modified="2025-10-27T10:26:52.909353Z" visited="2025-10-27T10:26:52.909346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-27T10:26:52.909351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Baixades/App%201.java" added="2025-10-27T10:33:54.713561Z" modified="2025-10-27T10:33:54.713574Z" visited="2025-10-27T10:33:54.713563Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-27T10:33:54.713568Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://ggpro-java.github.io/UF4-fRcm3wHyfk2FQFp86GHV/ca/6-exercicis.html" added="2025-10-27T11:09:46.699000Z" modified="2025-10-27T11:09:46.699000Z" visited="2025-10-27T11:09:46.699000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox %u %u" modified="2025-10-27T11:09:46.699000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/.local/cabeceraCEED" added="2025-10-28T12:25:32.652823Z" modified="2025-10-28T14:22:18.711371Z" visited="2025-10-28T12:25:32.652824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2025-10-28T14:22:18.711366Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/Imatges/autonomic.svg" added="2025-10-28T14:24:55.523252Z" modified="2025-10-28T14:24:55.523260Z" visited="2025-10-28T14:24:55.523253Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="'firefox %u'" modified="2025-10-28T14:24:55.523256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/maria/.local/cabeceraCEED/README.md" added="2025-10-28T14:40:08.561000Z" modified="2025-10-28T14:40:08.561000Z" visited="2025-10-28T14:40:08.561000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.kate" exec="kate -b %U %u" modified="2025-10-28T14:40:08.561000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

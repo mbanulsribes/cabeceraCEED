@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-vnd.microsoft.icon
+Name=favicon.ico
+Type=Link
+URL[$e]=file:$HOME/Imatges/favicon.ico
+X-KDE-LastOpenedWith=org.kde.gwenview

@@ -1,0 +1,21 @@
+site_name: Programació
+
+
+nav:
+  - Professorat: index.md
+  - Horari DAM: HorariDAM.md
+  - Horari DAW: HorariDAW.md
+  - Tutories: Tutories.md
+  - Avaluacions: Avaluacions.md
+  - Orientacions: Orientacions.md
+
+extra_css:
+  - css/ceed.css
+  
+extra:
+    social:
+     - icon: fontawesome/solid/code
+     - link: https://example.com
+     - name: Programació en Java
+  
+

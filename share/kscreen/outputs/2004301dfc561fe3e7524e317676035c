@@ -1,0 +1,19 @@
+{
+    "id": "2004301dfc561fe3e7524e317676035c",
+    "metadata": {
+        "fullname": "xrandr-Acer Technologies-EK240Y-E21401AF33W01",
+        "name": "DP-1"
+    },
+    "mode": {
+        "refresh": 74.97250366210938,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 2
+}

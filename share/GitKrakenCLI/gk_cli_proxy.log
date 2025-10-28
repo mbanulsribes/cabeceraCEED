@@ -1,0 +1,14 @@
+{"level":"warning","msg":"downloading latest binary","time":"2025-10-03T09:43:26.526386309+02:00"}
+{"level":"warning","msg":"downloading binary: https://api.gitkraken.dev/releases/gkcli/production/linux/x64/3.1.40/gk_core_3.1.40_linux_amd64.zip to /tmp/gkinstall288158344/gk_core_3.1.40_linux_amd64.zip","time":"2025-10-03T09:43:26.563622089+02:00"}
+{"level":"warning","msg":"rename failed, attempting copy + remove","time":"2025-10-03T09:43:27.115520478+02:00"}
+{"error":"close /home/maria/.local/share/GitKrakenCLI/versions/gk_3_1_40: file already closed","level":"warning","msg":"failed to close destination file","time":"2025-10-03T09:43:27.196022489+02:00"}
+{"level":"warning","msg":"Removed previous version file: /home/maria/.local/share/GitKrakenCLI/versions/gk_3_1_36","time":"2025-10-06T13:34:05.885830097+02:00"}
+{"level":"warning","msg":"downloading latest binary","time":"2025-10-17T09:15:06.416654157+02:00"}
+{"level":"warning","msg":"downloading binary: https://api.gitkraken.dev/releases/gkcli/production/linux/x64/3.1.42/gk_core_3.1.42_linux_amd64.zip to /tmp/gkinstall2591290273/gk_core_3.1.42_linux_amd64.zip","time":"2025-10-17T09:15:06.451547076+02:00"}
+{"level":"warning","msg":"rename failed, attempting copy + remove","time":"2025-10-17T09:15:07.04562216+02:00"}
+{"error":"close /home/maria/.local/share/GitKrakenCLI/versions/gk_3_1_42: file already closed","level":"warning","msg":"failed to close destination file","time":"2025-10-17T09:15:07.172471308+02:00"}
+{"level":"warning","msg":"Removed previous version file: /home/maria/.local/share/GitKrakenCLI/versions/gk_3_1_40","time":"2025-10-21T15:50:51.086946369+02:00"}
+{"level":"warning","msg":"downloading latest binary","time":"2025-10-27T11:18:57.119209608+01:00"}
+{"level":"warning","msg":"downloading binary: https://api.gitkraken.dev/releases/gkcli/production/linux/x64/3.1.46/gk_core_3.1.46_linux_amd64.zip to /tmp/gkinstall334484887/gk_core_3.1.46_linux_amd64.zip","time":"2025-10-27T11:18:57.171995409+01:00"}
+{"level":"warning","msg":"rename failed, attempting copy + remove","time":"2025-10-27T11:18:58.263252172+01:00"}
+{"error":"close /home/maria/.local/share/GitKrakenCLI/versions/gk_3_1_46: file already closed","level":"warning","msg":"failed to close destination file","time":"2025-10-27T11:18:58.361613601+01:00"}
